@@ -8,14 +8,10 @@
 }
 
 body {
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
     height: 100vh;
-    /* text-align: center; */
     background-color: rgb(61, 67, 169);
     color: #fff;
-    /* flex-direction: column; */
+    /* Picture from https://www.pexels.com/@francesco-ungaro/ */
     background: url(./img/landscape.jpg) no-repeat center center/ cover;
     position: relative;
 }
